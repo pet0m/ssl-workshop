@@ -12,6 +12,9 @@ Generated private key is an RSA 4096 bit key with SHA256 fingerprint and usage i
 
 CSR is generated with keyUsage attribute set to "Digital Signature, Key Encipherment".
 
+It is a completely stand-alone HTML file. It does not load any external Javascript and can be open straight from a file explorer into the web browser. Does not require a web server to be used.
+
+It uses web browser's embedded `crypto` library. 
 
 
 ## TODO:
