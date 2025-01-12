@@ -18,4 +18,7 @@ It uses web browser's embedded `crypto` library.
 
 
 ## TODO:
-Self-signed certificate generator with export to PEM file.
+- Self-signed certificate generator with export to PEM file.  
+- Shadow root, so it can be integrated into other web pages.  
+- More styling fixes.  
+- Dark theme.  
